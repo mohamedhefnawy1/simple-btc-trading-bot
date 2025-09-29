@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+autogen
+Flask
+okx-sdk
